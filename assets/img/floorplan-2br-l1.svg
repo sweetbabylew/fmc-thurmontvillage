@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1007" height="1600" viewBox="0 0 1007 1600" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Thurmont Village two-bedroom townhouse main level floor plan with kitchen/dining, living room, closet and stairwell">
+<defs><style>
+    .fp{fill:#FFFFFF}
+    .w{fill:none;stroke:#2C3E2D;stroke-width:7;stroke-linecap:butt}
+    .wo{fill:none;stroke:#2C3E2D;stroke-width:10;stroke-linecap:butt}
+    .d{fill:none;stroke:#7C9880;stroke-width:4;stroke-dasharray:5 6}
+    .arc{fill:none;stroke:#5E7D63;stroke-width:3}
+    .win{fill:none;stroke:#2C3E2D;stroke-width:2.5}
+    .rm{fill:#22331F;font-family:'Helvetica Neue',Arial,sans-serif;font-size:25px;font-style:italic;text-anchor:middle}
+    .cl{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:18px;font-style:italic;text-anchor:middle}
+    .sm{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:14px;font-style:italic;text-anchor:middle}
+  </style></defs>
+<rect class="fp" x="34" y="36" width="948" height="1535"/>
+<path class="w" d="M46,41 V62 M46,688 V735 M46,750 V787 M46,791 V807 M46,811 V864 M46,921 V952 M46,955 V996 M46,1028 V1048 M46,1102 V1197 M46,1226 V1264 M46,1272 V1343 M46,1354 V1391 M46,1394 V1456 M46,1467 V1553 M970,27 V788 M970,792 V808 M970,812 V1567 M27,793 H55 M66,793 H281 M438,793 H979 M27,811 H42 M458,811 H497 M916,811 H943 M973,811 H988 M27,938 H289 M973,938 H988 M27,1557 H60 M439,1557 H681 M840,1557 H988"/>
+<path class="d" d="M46,61 V85 M46,106 V149 M46,738 V756 M46,781 V795 M46,804 V818 M46,879 V921 M46,949 V963 M46,1001 V1020 M46,1043 V1072 M46,1082 V1096 M46,1194 V1227 M46,1544 V1560 M970,804 V825 M41,811 H80 M446,811 H462 M962,811 H976 M42,1557 H110 M176,1557 H210 M268,1557 H288 M667,1557 H686 M838,1557 H853 M913,1557 H948"/>
+<path class="win" d="M228,31 H393 M228,36 H393 M228,41 H393 M228,29 V43 M393,29 V43"/>
+<path class="win" d="M769,31 H915 M769,36 H915 M769,41 H915 M769,29 V43 M915,29 V43"/>
+<path class="win" d="M71,1566 H636 M71,1571 H636 M71,1576 H636 M71,1564 V1578 M636,1564 V1578"/>
+<path class="win" d="M674,1566 H982 M674,1571 H982 M674,1576 H982 M674,1564 V1578 M982,1564 V1578"/>
+<path class="wo" d="M34,36 H228 M393,36 H769 M915,36 H982 V1571 H982 M674,1571 H636 M71,1571 H34 V36"/>
+<text class="rm" x="513" y="428">Kitchen/Dining</text>
+<text class="rm" x="606" y="1088">Living Room</text>
+<text class="sm" x="171" y="874">Closet</text>
+<text class="cl" x="163" y="1181">Stairwell</text>
+</svg>
